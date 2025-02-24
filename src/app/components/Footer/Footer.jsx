@@ -12,7 +12,7 @@ export default function Footer() {
           <div className="md:col-span-2">
             <h1 className="text-2xl font-medium mb-2">microWeb</h1>
             <p className="mb-2">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio
+              Lorem ipsum dolor, amet consectetur adipisicing elit. Odio
               molestiae libero esse, deleniti beatae impedit corporis. Animi
               dicta dolore beatae perspiciatis eaque modi blanditiis minima
               pariatur hic? Accusantium, esse sed!
